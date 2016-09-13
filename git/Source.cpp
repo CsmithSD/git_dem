@@ -6,7 +6,7 @@ int main()
 {
 	cout << "Hello World";
 
-	cout << "commit 2";
+	cout << "Elliott was here";
 
 	return 1;
 }
